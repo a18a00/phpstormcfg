@@ -1,0 +1,14 @@
+<div class="banner-select-template" style="visibility: hidden">
+                                    <select class="banner-select">
+
+                                    </select>
+                                    <a class="fa fa-plus btnAdd" style="color:green;"></a>
+                                    <a class="fa fa-minus btnRemove" style="color:red;visibility: hidden;"></a>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="select1">Dodaj bannery do slidera: </label>
+                                    <div id="banner-select-container">
+
+                                    </div>
+                                </div>

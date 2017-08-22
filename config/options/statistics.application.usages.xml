@@ -1,0 +1,19 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.PHP Empty Project" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="composer.action.init from unknown" count="1" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="execute.LaravelStorm_run_conf_serve.Run" count="3" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Run" count="9" />
+      <entry feature="ide.settings.Composer" count="2" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Laravel" count="1" />
+      <entry feature="ide.settings.Libraries" count="1" />
+      <entry feature="ide.settings.PHP" count="1" />
+      <entry feature="ide.settings.Save_Actions" count="1" />
+      <entry feature="ideaapp.started" count="14" />
+    </counts>
+  </component>
+</application>

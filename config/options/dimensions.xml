@@ -1,0 +1,51 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="961" y="440" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="671" y="342" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="539" y="177" />
+    <location key="SettingsEditor.0.0.1920.1080" x="444" y="180" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="742" y="280" />
+    <location key="ComposerInitDialogKey.0.0.1920.1080" x="729" y="404" />
+    <location key="#Composer.0.0.1920.1080" x="774" y="411" />
+    <location key="#PHP.0.0.1920.1080" x="688" y="166" />
+    <location key="NewPhpFileDialog.0.0.1920.1080" x="780" y="450" />
+    <location key="SettingsEditor.0.0.3840.1080" x="444" y="193" />
+    <location key="#Browse_Repositories.0.0.3840.1080" x="539" y="190" />
+    <location key="#Composer.1920.0.1920.1080" x="2694" y="411" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="2364" y="180" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="418" y="192" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1080" x="762" y="420" />
+    <location key="#Deployment.0.0.1920.1080" x="555" y="196" />
+    <location key="#CLI_Interpreters.0.0.1920.1080" x="539" y="177" />
+    <location key="IdeErrosDialog.1920.0.1920.1080" x="2414" y="364" />
+    <location key="find.popup.1920.0.1920.1080" x="2569" y="134" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="735" y="407" />
+    <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.1920.1080" x="729" y="318" />
+    <location key="FileChooserDialogImpl.1920.312.1368.768" x="2387" y="435" />
+    <location key="SettingsEditor.1920.312.1368.768" x="2088" y="336" />
+    <size key="#Browse_Repositories.0.0.1920.1080" width="826" height="691" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1024" height="689" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="426" height="491" />
+    <size key="javadoc.popup.0.0.1920.1080" width="446" height="171" />
+    <size key="#Composer.0.0.1920.1080" width="363" height="226" />
+    <size key="#PHP.0.0.1920.1080" width="536" height="716" />
+    <size key="NewPhpFileDialog.0.0.1920.1080" width="351" height="148" />
+    <size key="SettingsEditor.0.0.3840.1080" width="1024" height="689" />
+    <size key="#Browse_Repositories.0.0.3840.1080" width="826" height="691" />
+    <size key="#Composer.1920.0.1920.1080" width="363" height="226" />
+    <size key="SettingsEditor.1920.0.1920.1080" width="1024" height="689" />
+    <size key="#Deployment.0.0.1920.1080" width="802" height="684" />
+    <size key="#CLI_Interpreters.0.0.1920.1080" width="826" height="691" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1920" height="314" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1920" height="314" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="314" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1920" height="314" />
+    <size key="javadoc.popup.1920.0.1920.1080" width="446" height="171" />
+    <size key="IdeErrosDialog.1920.0.1920.1080" width="923" height="320" />
+    <size key="find.popup.1920.0.1920.1080" width="845" height="648" />
+    <size key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.1920.1080" width="454" height="412" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" width="441" height="237" />
+    <size key="FileChooserDialogImpl.1920.312.1368.768" width="426" height="491" />
+    <size key="SettingsEditor.1920.312.1368.768" width="1024" height="689" />
+  </component>
+</application>

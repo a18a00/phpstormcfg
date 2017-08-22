@@ -1,0 +1,12 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Stop@RunnerToolbar" count="3" />
+      <entry action="com.intellij.codeInspection.ui.CloseAction@CodeInspection" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="4" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+</application>
